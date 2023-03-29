@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+a:hover {
+  background-color: rgb(255, 0, 140);
+  color: black;
+}
+
+a:hover {
+  background-color:yellow;
+  color: red;
+}
+
+.nav-link:hover {
+  color: red !important;
+  background-color: yellow !important;
+}
+
+
