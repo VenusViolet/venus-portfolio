@@ -17,6 +17,9 @@ To access the webpage you can fork the repository so that you can do npm install
 
 ## Usage
 This accessible web application works when the user starts npm i and then npm start on the command line. Then the react will open in your browser and function. 
+<img width="1440" alt="Screenshot 2023-03-28 at 6 00 42 PM" src="https://user-images.githubusercontent.com/115984242/228423640-53a477bb-96c1-4162-9ac2-ba93c93c9724.png">
+
+Link: http://localhost:3000/ 
 
 ## Credits
 TA Kevin Long assisted with this project. 
